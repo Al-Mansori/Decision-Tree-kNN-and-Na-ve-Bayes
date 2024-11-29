@@ -1,1 +1,1 @@
-# Decision-Tree-kNN-and-Na-ve-Bayes
+# Decision-Tree-kNN-and-Naïve-Bayes
